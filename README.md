@@ -24,3 +24,13 @@ There are several ways you can convert an image to colored art in Python. One wa
 
 5. Save the colored art image to a file using the Image.save() function:
 ![image](https://user-images.githubusercontent.com/41402706/211160269-488cdb09-fa5f-4da8-b28a-84be1ab02d2e.png)
+
+
+# Result
+
+Image Input
+![image](https://user-images.githubusercontent.com/41402706/211161931-527448e0-9031-44c0-8302-9f74f3f4d82d.png)
+
+
+Image Output
+![image](https://user-images.githubusercontent.com/41402706/211161959-b293bc87-b7d4-46c7-b307-cd50eeb35bea.png)
