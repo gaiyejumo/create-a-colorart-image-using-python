@@ -7,6 +7,7 @@ There are several ways you can convert an image to colored art in Python. One wa
 # To use Pillow to convert an image to colored art, you can use the following steps:
 
 1. Install the Pillow library using pip:
+
 ![image](https://user-images.githubusercontent.com/41402706/211160347-6284e267-8471-4c2e-a018-b148df99b3da.png)
 
 
